@@ -22,7 +22,7 @@
     "react-jss": "^10.3.0",
     "react-three-fiber": "^4.2.20",
     "tailwindcss": "^1.6.2",
-    "three": "^0.119.1",
+    "three": "^0.125.0",
     "zustand": "^2.2.3"
   },
   "devDependencies": {
